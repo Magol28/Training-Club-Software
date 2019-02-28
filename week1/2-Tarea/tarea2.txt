@@ -1,0 +1,8 @@
+Poner diseño a la página principal del deber anterior.
+- Setear un navbar
+- Setear un banner
+- Setear un footer.
+- Debe tener dos contenidos
+- El primero debe hablar acerca de ustedes
+- El segundo deben ser cuadros juntos información de su educación: escuela, colegio, universidad.
+
