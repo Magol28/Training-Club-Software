@@ -7,7 +7,7 @@ let words = ['Hello','Hi','Good Morining'];
 console.log(numbers);
 console.log(words);
 
-//Print element
+ //Print element
 console.log(numbers[0]);
 console.log(words[2]);
 
@@ -15,8 +15,9 @@ console.log(words[2]);
 //Some methods.
 console.log(words.join('-'));
 
-numbers.push(6);
+ numbers.push(6);
 console.log(numbers);
 
+
 numbers.pop();
-console.log(numbers);
+console.log(numbers); 

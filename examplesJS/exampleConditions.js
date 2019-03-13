@@ -1,16 +1,16 @@
 /* Example If else conditions */
 
-let num=15;
+/* let num=8;
 if(num > 10){
     console.log('Number greater than 10');
 }else{
     console.log('Number no greater than 10');
 }
-
+ */
 
 
 /* Example Switch conditions */
-let isdayOfWeek = 'Sunday';
+let isdayOfWeek = 'Monday';
 
 switch (isdayOfWeek) {
     case 'Monday':
